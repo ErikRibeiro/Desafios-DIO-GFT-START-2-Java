@@ -16,5 +16,17 @@
       <tr><td>11 -2</td><td>X = 9</td></tr>
     </table>
     <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a>
+    
+    <h3>Desafios matemáticos em Java 2 / 3 - Seis Números Ímpares</h3>
+    <p>Leia um valor inteiro X. Em seguida apresente os 6 valores ímpares consecutivos a partir de X, um valor por linha, inclusive o X se for o caso.</p>
+    <h3>Entrada</h3>
+    <p>A entrada será um valor inteiro positivo.</p>
+    <h3>Saída</h3>
+    <p>A saída será uma sequência de seis números ímpares.</p>
+    <table>
+      <tr><td>Exemplos de Entrada</td><td>Exemplos de Saída</td></tr>
+      <tr><td>8</td><td>9<br>11<br>13<br>15<br>17<br>19</td></tr>
+    </table>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a>
   </body>
 </html>
