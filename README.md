@@ -40,7 +40,11 @@
     <p>Exiba a mensagem conforme o exemplo de saída abaixo, sendo uma mensagem por linha e não esquecendo o final de linha após cada uma.</p>
     <table>
       <tr><td>Exemplos de Entrada</td><td>Exemplos de Saída</td></tr>
-      <tr><td>-5 0 -3 -4 12</td><td>3 valor(es) par(es) 2 valor(es) impar(es) 1 valor(es) positivo(s) 3 valor(es) negativo(s)</td></tr>
+      <tr><td>-5</td><td>3 valor(es) par(es)</td></tr>
+      <tr><td>0</td><td>2 valor(es) impar(es)</td></tr>
+      <tr><td>-3</td><td>1 valor(es) positivo(s)</td></tr>
+      <tr><td>-4</td><td>3 valor(es) negativo(s)</td></tr>
+      <tr><td>12</td><td> </td></tr>
     </table>
     <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/SeisNumerosImpares.java">Link do desafio</a>
   </body>
