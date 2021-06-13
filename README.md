@@ -60,7 +60,7 @@
       <tr><td>7</td><td> </td></tr>
       <tr><td>8</td><td> </td></tr>
     </table>
-    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a><br><h3>Solucionando Desafios em Java 2 / 3 - Idades</h3>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/SolucionandoDesafiosJava/Diferenca.java">Link do desafio</a><br><h3>Solucionando Desafios em Java 2 / 3 - Idades</h3>
     <p>Faça um algoritmo para ler um número indeterminado de dados, contendo cada um, a idade de um indivíduo. O último dado, que não entrará nos cálculos, contém o valor de idade negativa. Calcular e imprimir a idade média deste grupo de indivíduos.</p>
     <h3>Entrada</h3>
     <p>A entrada contém um número indeterminado de inteiros. A entrada será encerrada quando um valor negativo for lido.</p>
