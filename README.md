@@ -15,5 +15,6 @@
       <tr><td>11 6</td><td>X = -5</td></tr>
       <tr><td>11 -2</td><td>X = 9</td></tr>
     </table>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a>
   </body>
 </html>
