@@ -93,6 +93,6 @@
       <tr><td>10</td><td> </td></tr>
       <tr><td>10</td><td> </td></tr>
     </table>
-    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/AnaliseDeNumeros.java">Link do desafio</a>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/SolucionandoDesafiosJava/ContagemRepetidaDeN%C3%BAmeros.java">Link do desafio</a>
   </body>
 </html>
