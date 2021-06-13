@@ -26,5 +26,17 @@
       <tr><td>8</td><td>9 11 13 15 17 19</td></tr>
     </table>
     <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/SeisNumerosImpares.java">Link do desafio</a>
+    <br>
+    <h3>Desafios matemáticos em Java 3 / 3 - Análise de Números</h3>
+    <p>Você deve fazer a leitura de 5 valores inteiros. Em seguida mostre quantos valores informados são pares, quantos valores informados são ímpares, quantos valores informados são positivos e quantos valores informados são negativos.</p>
+    <h3>Entrada</h3>
+    <p>Você receberá 5 valores inteiros.</p>
+    <h3>Saída</h3>
+    <p>Exiba a mensagem conforme o exemplo de saída abaixo, sendo uma mensagem por linha e não esquecendo o final de linha após cada uma.</p>
+    <table>
+      <tr><td>Exemplos de Entrada</td><td>Exemplos de Saída</td></tr>
+      <tr><td>-5 0 -3 -4 12</td><td>9 11 13 15 17 19</td></tr>
+    </table>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/SeisNumerosImpares.java">Link do desafio</a>
   </body>
 </html>
