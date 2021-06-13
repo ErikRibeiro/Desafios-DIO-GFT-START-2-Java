@@ -74,7 +74,7 @@
       <tr><td>23</td><td> </td></tr>
       <tr><td>-2</td><td> </td></tr>
     </table>
-    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/SeisNumerosImpares.java">Link do desafio</a>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/SolucionandoDesafiosJava/Idades.java">Link do desafio</a>
     <br>
     <h3>Solucionando Desafios em Java 3 / 3 - Contagem repetida de números</h3>
     <p>Neste desafio sua tarefa será ler vários números e em seguida dizer quantas vezes cada número aparece, ou seja, deve-se escrever cada um dos valores distintos que aparecem na entrada por ordem crescente de valor.</p>
