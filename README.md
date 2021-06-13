@@ -46,6 +46,6 @@
       <tr><td>-4</td><td>3 valor(es) negativo(s)</td></tr>
       <tr><td>12</td><td> </td></tr>
     </table>
-    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/SeisNumerosImpares.java">Link do desafio</a>
+    <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/AnaliseDeNumeros.java">Link do desafio</a>
   </body>
 </html>
