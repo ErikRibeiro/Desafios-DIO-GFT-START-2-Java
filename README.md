@@ -25,7 +25,7 @@
     <p>A saída será uma sequência de seis números ímpares.</p>
     <table>
       <tr><td>Exemplos de Entrada</td><td>Exemplos de Saída</td></tr>
-      <tr><td>8</td><td>9<br>11<br>13<br>15<br>17<br>19</td></tr>
+      <tr><td>8</td><td>9 11 13 15 17 19</td></tr>
     </table>
     <a href="https://github.com/ErikRibeiro/Desafios-DIO-GFT-START-2-Java/blob/main/Desafio-Dio/src/DesafiosMatem%C3%A1ticosJava/VisitaNaFeira.java">Link do desafio</a>
   </body>
